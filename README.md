@@ -11,16 +11,4 @@ Now open another cmd, cd to project folder, cd into server folder and type `npm 
 Now you have to install redis if you haven't. To do this, go to `https://github.com/dmajkic/redis/downloads` and install latest version, then open `redis-server` to run the redis server. This is needed to cache the data which is requested. Without this your application will be slow. 
 
 
-TODO
-
-`Get UI for profile and work on it`
-
-`Figure out how to do notifications`
-
-`What and how to dynamically load graphs we need`
-
-`Work on search in completed goals`
-
-`Make seperate goal files!`
-
 
